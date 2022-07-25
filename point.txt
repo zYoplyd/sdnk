@@ -1,0 +1,3 @@
+dim mensaje
+mensaje=MsgBox("ip: fasy",305,"._.")
+wscript.echo(Mensaje)
